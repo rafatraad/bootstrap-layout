@@ -1,0 +1,22 @@
+
+
+.header, .hero, .body, .back_cyan, .footer{
+/*	min-height: 70px;*/
+	background-color:red;
+	margin-bottom: 10px;
+}
+
+.box{
+	margin: 15px 0;
+	min-height: 70px;
+	background-color: #22b14c;
+	font-size: 20px;
+	color: white;
+	text-align: center;
+}
+.red{
+	background-color: red;
+}
+.cyan{
+	background-color: #99d9ea;
+}
